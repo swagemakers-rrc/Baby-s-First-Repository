@@ -1,6 +1,6 @@
 """
 Description: Hello world display program
-Author: Sarah
+Author: Sarah Wagemakers
 Date: August 30, 2024
 """
 
