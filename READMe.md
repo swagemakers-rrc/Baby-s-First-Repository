@@ -52,3 +52,9 @@ Version control is the practice of tracking and managing changes to software cod
 - 'git branch': Allows the user to list, create, or delete branches.
 - 'git merge': Join two or more divergent branches together again e.g. reintegrate a branch with the main/master branch after adding and committing new changes to the differing branch. 
 - 'git checkout': Switch branches or restore files
+
+## My Unique Touch
+
+### Describe something that sets me apart from others
+
+This is difficult because I generally view myself as very 'average' or ordinary in many ways. I suppose I'm most defined by my artistic ability, as I do love creating art; it is a longterm passion of mine. I also love video games, especially the mmorpg game Final Fantasy XIV. I've made a lot of great friends playing that game, and we hangout on discord voice chat a lot, sometimes even just to watch TV or movies together. Other than those things, I suppsoe I am taller than the average Canadian woman by several inches, and I have terrible eyesight, so I need to wear glasses. Hopefully one day I can just get LASIK, because glasses really do suck. 
